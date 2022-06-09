@@ -1,0 +1,1 @@
+const equalStrings = (s1, s2) => [...s1].sort().join('') === [...s2].sort().join('');
